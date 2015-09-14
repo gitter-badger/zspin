@@ -2,6 +2,8 @@
 # Zspin
 ### <a href="README-fr.md">Version francaise</a>    
 
+[![Join the chat at https://gitter.im/HFScode/zspin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/HFScode/zspin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 zspin is an arcade frontend, working on windows, linux, and OSX.    
 It's beta software, so expect things to bug !    
 Don't hesitate to open an issue or send me a PR !
